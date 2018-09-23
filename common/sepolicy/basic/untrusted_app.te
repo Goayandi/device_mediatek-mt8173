@@ -1,0 +1,31 @@
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+# Date : 2014/09/09
+# Operation : Development GMO Feature "Move OAT to SD Card"
+# Purpose : for GMO ROM Size Slim
+#allow untrusted_app dalvikcache_data_file:lnk_file read;
+
+# Date: 2016/02/26
+# Operation: Migration
+# Purpose: Allow MTK modified ElephantStress and WhatsTemp to read thermal zone temperatures
+#					 from MTK kernel modules for thermal tests at OEM/ODM.
+allow untrusted_app proc_mtktz:dir search;
+allow untrusted_app proc_mtktz:file r_file_perms;
+
+# Date : WK15.39
+# Operation : Migration
+# Purpose : allow untrusted_app to find pq_service
+allow untrusted_app pq_service:service_manager { find };
+
+# Date : 2016/7/22
+# Operation: SQC
+# Purpose : Allow untrusted_app access through sdcardfs and fuse. Note: Android is planned
+# to run untrusted_app in sandbox, and may limit more FS operations of untrusted_app in the future.
+allow untrusted_app {fuse sdcardfs}:dir create_dir_perms;
+allow untrusted_app {fuse sdcardfs}:file create_file_perms;
+allow untrusted_app vfat:dir  {reparent rename rmdir setattr rw_dir_perms};
+allow untrusted_app vfat:file {rename setattr rw_file_perms};
+allow untrusted_app system_data_file:file r_file_perms;
+

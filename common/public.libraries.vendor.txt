@@ -1,0 +1,8 @@
+libMcClient.so
+libMcRegistry.so
+libssl.so
+libcutils.so
+libutils.so
+libnativehelper.so
+libandroid_runtime.so
+libbinder.so

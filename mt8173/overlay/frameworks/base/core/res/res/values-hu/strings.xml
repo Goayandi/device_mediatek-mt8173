@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">HDMI-kábel csatlakoztatva</string>
+    <string name="hdmi_notification_content">Kattintson rá a HDMI konfigurálásához</string>
+    <string name="hdmi_hdvideo_toast">A HDMI nem játssza le a 4K videót. A kapcsolat megszakad.</string>
+    <string name="hdmi_mutex_call_content">Sajnáljuk, a HDMI leállt az aktuális telefonhívás miatt.</string>
+    <string name="hdmi_audio_output">Audió kimenet</string>
+    <string name="hdmi_audio_output_stereo">Sztereó</string>
+    <string name="hdmi_audio_output_multi_channel">Többcsatornás</string>
+
+</resources>

@@ -1,0 +1,7 @@
+
+allow shell atci_service_exec:file rx_file_perms;
+allow shell atcid_exec:file rx_file_perms;
+allow shell pq_exec:file rx_file_perms;
+
+#add for MOTA
+allow shell GoogleOtaBinder_exec:file rx_file_perms;

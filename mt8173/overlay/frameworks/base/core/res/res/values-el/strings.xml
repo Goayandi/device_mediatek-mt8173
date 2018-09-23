@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">Το καλώδιο HDMI έχει συνδεθεί</string>
+    <string name="hdmi_notification_content">Κάντε κλικ για τη ρύθμιση παραμέτρων HDMI</string>
+    <string name="hdmi_hdvideo_toast">Δεν είναι δυνατή η αναπαραγωγή του βίντεο 4K από το HDMI. Η σύνδεση θα διακοπεί.</string>
+    <string name="hdmi_mutex_call_content">Δυστυχώς, το HDMI έχει διακοπεί λόγω της τρέχουσας φωνητικής κλήσης.</string>
+    <string name="hdmi_audio_output">Έξοδος ήχου</string>
+    <string name="hdmi_audio_output_stereo">Στερεοφωνικός ήχος</string>
+    <string name="hdmi_audio_output_multi_channel">Πολυκάναλος</string>
+
+</resources>

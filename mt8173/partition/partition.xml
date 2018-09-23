@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<partition lba="61071360">
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="1024" end="7167" name="proinfo" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="7168" end="17407" name="nvram" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="17408" end="37887" name="protect1" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="37888" end="58367" name="protect2" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="58368" end="59391" name="lk" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="59392" end="60415" name="para" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="60416" end="93183" name="boot" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="93184" end="125951" name="recovery" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="125952" end="142335" name="logo" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="142336" end="162815" name="expdb" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="162816" end="163839" name="seccfg" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="163840" end="167935" name="oemkeystore" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="167936" end="180223" name="secro" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="180224" end="196607" name="keystore" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="196608" end="206847" name="tee1" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="206848" end="217087" name="tee2" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="217088" end="219135" name="frp" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="219136" end="284671" name="nvdata" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="284672" end="356351" name="metadata" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="356352" end="358399" name="kb" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="358400" end="360447" name="dkb" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="360448" end="5603327" name="system" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="5603328" end="8749056" name="cache" />
+<entry type="{0FC63DAF-8483-4772-8E79-3D69D8477DE4}" start="8749057" end="61069312" name="userdata" />
+</partition>

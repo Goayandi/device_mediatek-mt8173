@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">  
+
+    <string name="hdmi_notification_title">HDMI 케이블이 연결됨</string>
+    <string name="hdmi_notification_content">클릭하여 HDMI 구성</string>
+    <string name="hdmi_hdvideo_toast">HDMI는 4K 비디오를 재생할 수 없습니다. 연결이 중단됩니다. </string>
+    <string name="hdmi_mutex_call_content">죄송합니다. 현재 전화 통화 때문에 HDMI가 중지되었습니다.</string>
+    <string name="hdmi_audio_output">오디오 출력</string>
+    <string name="hdmi_audio_output_stereo">스테레오</string>
+    <string name="hdmi_audio_output_multi_channel">멀티 채널</string>
+
+</resources>

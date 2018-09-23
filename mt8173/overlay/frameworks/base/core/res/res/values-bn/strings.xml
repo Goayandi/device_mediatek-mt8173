@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">HDMI ক্যাবল সংযুক্ত</string>
+    <string name="hdmi_notification_content">HDMI কনফিগার করার জন্য ক্লিক করুন</string>
+    <string name="hdmi_hdvideo_toast">এইচডিএমআই ৪কে ভিডিও চালাতে পারে না, সংযোগ বিঘ্নিত হবে।</string>
+    <string name="hdmi_mutex_call_content">দুঃখিত, বর্তমান ফোন কলের কারণে এইচডিএমএ বন্ধ হয়ে গেছে।</string>
+    <string name="hdmi_audio_output">অডিও আউটপুট</string>
+    <string name="hdmi_audio_output_stereo">স্টেরিও </string>
+    <string name="hdmi_audio_output_multi_channel">মাল্টিচ্যানেল</string>
+
+</resources>

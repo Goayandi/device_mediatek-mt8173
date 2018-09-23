@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">Kabel HDMI je připojen</string>
+    <string name="hdmi_notification_content">Klepnutím nakonfigurujte HDMI</string>
+    <string name="hdmi_hdvideo_toast">HDMI nemůže přehrát 4K video, připojení bude přerušeno.</string>
+    <string name="hdmi_mutex_call_content">Rozhraní HDMI se bohužel během aktuálního volání ukončilo.</string>
+    <string name="hdmi_audio_output">Výstup zvuku</string>
+    <string name="hdmi_audio_output_stereo">Stereo</string>
+    <string name="hdmi_audio_output_multi_channel">Více kanálů</string>
+
+</resources>

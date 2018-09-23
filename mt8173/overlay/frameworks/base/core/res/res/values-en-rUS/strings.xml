@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">HDMI cable connected</string>
+    <string name="hdmi_notification_content">Click to configure HDMI</string>
+    <string name="hdmi_mutex_call_content">Sorry, HDMI has stopped due to current phone call.</string>
+    <string name="hdmi_hdvideo_toast">HDMI cannot play the 4K video, connection will be interrupted.</string>
+    <string name="hdmi_audio_output">Audiooutput</string>
+    <string name="hdmi_audio_output_multi_channel">MultiChannel</string>
+    <string name="hdmi_audio_output_stereo">Stereo</string>
+
+</resources>

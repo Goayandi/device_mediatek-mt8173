@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hdmi_notification_title">Cabo HDMI ligado</string>
+    <string name="hdmi_notification_content">Clique para configurar o HDMI</string>
+    <string name="hdmi_hdvideo_toast">Não é possível reproduzir vídeo 4K através de HDMI, a ligação será interrompida.</string>
+    <string name="hdmi_mutex_call_content">Lamentamos, o HDMI parou devido à chamada atual.</string>
+    <string name="hdmi_audio_output">Saída de áudio</string>
+    <string name="hdmi_audio_output_stereo">Estéreo</string>
+    <string name="hdmi_audio_output_multi_channel">Multicanal</string>
+
+</resources>
